@@ -1,3 +1,5 @@
+# Generative Error Correction for Emotion-aware Speech-to-text Translation
+
 This repository provides the code for the paper **“[Generative Error Correction for Emotion-aware Speech-to-text Translation](https://aclanthology.org/2025.findings-acl.1047)”**.
 
 It contains a **two-stage** pipeline:
